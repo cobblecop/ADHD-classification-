@@ -1,0 +1,1 @@
+Best Hyperparameters: {'n_estimators': 482, 'max_depth': 3, 'learning_rate': 0.13935875596020206, 'subsample': 0.5729662857123876, 'colsample_bytree': 0.9877896868094707, 'gamma': 0.013941617298173203, 'reg_lambda': 2.4184265811835517, 'reg_alpha': 0.009996904274154051}
